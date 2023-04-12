@@ -1,4 +1,3 @@
-# pythonProjects
 This repository is a collection of basic Python codes covering various fundamental concepts of the language. It serves as a great starting point for beginners to learn Python, a popular and easy-to-learn programming language.
 
 This is a collection of Python code files for various games and utilities. Below you will find a description of each file, along with instructions for how to use each program.
